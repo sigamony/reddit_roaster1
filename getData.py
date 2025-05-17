@@ -9,9 +9,9 @@ from dotenv import load_dotenv
 # CLIENT_SECRET = os.getenv("CLIENT_SECRET")
 # USER_AGENT = os.getenv("USER_AGENT")
 
-CLIENT_ID = "n9qQrhArDFOh6ar4dOZTGA"
-CLIENT_SECRET = "a4h3G8rjaRAxiKybJJccxXAXkeq9Hw"
-USER_AGENT = "reddit-roaster-script:v1.0 (by /u/l0g1cb0mb_101)"
+CLIENT_ID = "ur client id"
+CLIENT_SECRET = "ur client secret"
+USER_AGENT = "reddit-roaster-script:v1.0 (by /u/urusername)"
 
 
 # Initialize PRAW
